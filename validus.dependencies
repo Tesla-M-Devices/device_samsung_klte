@@ -1,13 +1,13 @@
 [
   {
     "repository": "ValidusOs-Devices/device_samsung_klte-common",
-    "target_path":  "device/samsung/klte-common",
-    "branch":         "n7.1"
+    "target_path": "device/samsung/klte-common",
+    "branch":       "n7.1"
   },
   {
     "repository": "LineageOS/android_hardware_samsung",
-    "target_path":  "hardware/samsung",
-    "branch":         "cm-14.1"     
+    "target_path": "hardware/samsung",
+    "branch":       "cm-14.1"     
   },
   {
     "repository": "ValidusOs-Devices/device_samsung_msm8974-common",
