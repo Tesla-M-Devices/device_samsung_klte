@@ -33,10 +33,5 @@
     "repository": "LineageOS/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "branch":       "cm-14.1"
-  },
-  {
-    "repository": "LineageOS/android_device_samsung_qcom-common",
-    "target_path": "device/samsung/qcom-common",
-    "branch":       "cm-14.1"
   }
 ]
