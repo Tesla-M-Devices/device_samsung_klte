@@ -20,9 +20,9 @@
     "branch":       "n7.1"
   },
   {
-    "repository": "LineageOS/android_kernel_samsung_klte",
+    "repository": "Tesla-M-Devices/kernel_samsung_klte",
     "target_path": "kernel/samsung/klte",
-    "branch":        "cm-14.1"
+    "branch":        "n7.1"
   },
   {
     "repository": "LineageOS/android_external_stlport",
