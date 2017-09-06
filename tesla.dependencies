@@ -15,9 +15,9 @@
     "branch":       "cm-14.1"
   },
   {
-    "repository": "LineageOS/android_device_samsung_msm8974-common",
+    "repository": "Tesla-M-Devices/device_samsung_msm8974-common",
     "target_path": "device/samsung/msm8974-common",
-    "branch":       "cm-14.1"
+    "branch":       "n7.1"
   },
   {
     "repository": "LineageOS/android_kernel_samsung_klte",
