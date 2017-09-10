@@ -1,4 +1,6 @@
+# Inherit some common tesla stuff.
 $(call inherit-product, vendor/tesla/config/common_full_phone.mk)
+$(call inherit-product, vendor/tesla/config/caf_fw.mk)
 
 $(call inherit-product, device/samsung/klte/full_klte.mk)
 
